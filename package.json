@@ -1,0 +1,29 @@
+{
+  "name": "afm-whatsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conversa.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --check server.js && node --check conversa.js && node --check login.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crrf3562-bit/AFM--Whatsapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/crrf3562-bit/AFM--Whatsapp/issues"
+  },
+  "homepage": "https://github.com/crrf3562-bit/AFM--Whatsapp#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.4",
+    "express": "^5.2.1",
+    "socket.io": "^4.8.4",
+    "twilio": "^6.1.2"
+  }
+}

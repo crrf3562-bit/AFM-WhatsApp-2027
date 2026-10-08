@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1791388786563_j21v7rkd",
+    "remetente": "RH",
+    "setorRemetente": "RH",
+    "destinatario": "DY",
+    "setorDestinatario": "DY",
+    "texto": "oi",
+    "data": "2026-10-07T15:59:46.564Z",
+    "tipo": "enviada",
+    "resposta": null,
+    "text": "oi",
+    "channel": "dy::rh",
+    "targetSector": "DY",
+    "sender": {
+      "user": "rh",
+      "name": "RH",
+      "sector": "RH"
+    },
+    "reply": null,
+    "time": "12:59",
+    "date": "2026-10-07T15:59:46.763Z"
+  },
+  {
+    "id": "1791392347622_nvh5qouf",
+    "remetente": "RH",
+    "setorRemetente": "RH",
+    "destinatario": "Câmera TI",
+    "setorDestinatario": "Câmera TI",
+    "texto": "oi",
+    "data": "2026-10-07T16:59:07.631Z",
+    "tipo": "enviada",
+    "resposta": null,
+    "text": "oi",
+    "channel": "camera ti::rh",
+    "targetSector": "Câmera TI",
+    "sender": {
+      "user": "rh",
+      "name": "RH",
+      "sector": "RH"
+    },
+    "reply": null,
+    "time": "13:59",
+    "date": "2026-10-07T16:59:07.877Z"
+  },
+  {
+    "id": "1791392426014_oyq7ymfn",
+    "remetente": "Câmera TI",
+    "setorRemetente": "Câmera TI",
+    "destinatario": "RH",
+    "setorDestinatario": "RH",
+    "texto": "oi",
+    "data": "2026-10-07T17:00:26.024Z",
+    "tipo": "enviada",
+    "resposta": null,
+    "text": "oi",
+    "channel": "camera ti::rh",
+    "targetSector": "RH",
+    "sender": {
+      "user": "camera.ti",
+      "name": "Câmera TI",
+      "sector": "Câmera TI"
+    },
+    "reply": null,
+    "time": "14:00",
+    "date": "2026-10-07T17:00:26.024Z"
+  },
+  {
+    "id": "1791392431349_uxgrgs8r",
+    "remetente": "Câmera TI",
+    "setorRemetente": "Câmera TI",
+    "destinatario": "RH",
+    "setorDestinatario": "RH",
+    "texto": "tututut",
+    "data": "2026-10-07T17:00:31.359Z",
+    "tipo": "enviada",
+    "resposta": null,
+    "text": "tututut",
+    "channel": "camera ti::rh",
+    "targetSector": "RH",
+    "sender": {
+      "user": "camera.ti",
+      "name": "Câmera TI",
+      "sector": "Câmera TI"
+    },
+    "reply": null,
+    "time": "14:00",
+    "date": "2026-10-07T17:00:31.360Z"
+  }
+]
